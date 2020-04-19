@@ -1,6 +1,12 @@
 {
   "name": "frontend-template",
   "version": "1.0.0",
+  "author": {
+    "name": "Hidekazu Kobayashi",
+    "email": "kobahide789@gmail.com",
+    "url": "https://koba789.com/"
+  },
+  "license": "Apache-2.0",
   "private": true,
   "scripts": {
     "dev": "parcel serve src/index.html",
