@@ -18,7 +18,7 @@
   "dependencies": {
     "@blueprintjs/core": "3.30.0",
     "@blueprintjs/icons": "3.20.1",
-    "@emotion/core": "10.0.34",
+    "@emotion/core": "10.0.35",
     "@hot-loader/react-dom": "16.13.0",
     "emotion": "10.0.27",
     "normalize.css": "8.0.1",
